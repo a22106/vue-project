@@ -2,7 +2,7 @@ const app = Vue.createApp({
   data() {
     return {
       courseGoalA: 'Finish the course and learn Vue!',
-      courseGoalB:'Master Vue and build my own app!',
+      courseGoalB:'<h3>Master Vue and build my own app!</h3>',
       vueLink: 'https://vuejs.org/'
     };
   },
